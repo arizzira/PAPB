@@ -1,4 +1,4 @@
-# Tutorial Lengkap Instalasi Android Studio & Emulator
+# Tutorial Instalasi Android Studio & Emulator
 
 **Mata Kuliah:** Pemrograman Aplikasi Perangkat Bergerak (PAPB)  
 **Nama:** Ariz  
