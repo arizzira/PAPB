@@ -89,7 +89,8 @@ Jika ingin menginstal secara manual dari file yang sudah diunduh pada Tahap 2:
        ./studio.sh
 ![code](./assets/9.png)
 4. Saat aplikasi terbuka, klik menu **Tools > Create Desktop Entry** agar Android Studio muncul di menu aplikasi.
-![std](./assets/15.png)
+
+![std](./assets/16.png)
 
 ### Instalasi di Windows
 1. Jalankan file `.exe` yang telah diunduh pada Tahap 2.
@@ -134,7 +135,7 @@ Emulator (Android Virtual Device) digunakan untuk menjalankan aplikasi langsung 
 5. Beri nama emulator pada kolom **AVD Name**, pastikan orientasi **Portrait**, lalu klik **Finish**.
 6. Klik ikon **Play** (segitiga) di sebelah nama emulator untuk menjalankannya. Tunggu hingga layar utama Android muncul.
 
-![Screenshot Emulator Menyala](assets/emulator.png) **SS NYUSUL** 
+<!-- ![Screenshot Emulator Menyala](assets/emulator.png) **SS NYUSUL**  -->
 
 ---
 
@@ -148,7 +149,7 @@ Emulator (Android Virtual Device) digunakan untuk menjalankan aplikasi langsung 
 6. Klik tombol **Run 'app'** (ikon Play warna hijau).
 7. Aplikasi "Hello World" akan terbuka di dalam emulator!
 
-![Screenshot Aplikasi Hello World di Emulator](assets/helloworld.png)   **SS NYUSUL** 
+<!-- ![Screenshot Aplikasi Hello World di Emulator](assets/helloworld.png)   **SS NYUSUL**  -->
 
 
 ---
